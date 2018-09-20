@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\dhsjjg\dhsjjg\bin\Debug\dhsjjg.exe
+c:\users\administrator\documents\visual studio 2010\Projects\dhsjjg\dhsjjg\bin\Debug\dhsjjg.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\dhsjjg\dhsjjg\obj\x86\Debug\dhsjjg.exe
+c:\users\administrator\documents\visual studio 2010\Projects\dhsjjg\dhsjjg\obj\x86\Debug\dhsjjg.pdb
