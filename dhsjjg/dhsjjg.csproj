@@ -43,11 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Code3_12_ISLL.cs" />
+    <Compile Include="Code3_12_Link.cs" />
+    <Compile Include="Code3_12_LinkList.cs" />
     <Compile Include="Code3_5.cs" />
-    <Compile Include="Code3_6.cs" />
     <Compile Include="Code3_6_ISLL.cs" />
     <Compile Include="Code3_6_LL.cs" />
     <Compile Include="Code3_6_Node.cs" />
+    <Compile Include="ProgramCode3_6.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
